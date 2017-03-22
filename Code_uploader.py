@@ -9,4 +9,3 @@ print("Input Code : "+str(code))
 
 pyclient.send('data', code)
 print("Code updated in cloud")
-
