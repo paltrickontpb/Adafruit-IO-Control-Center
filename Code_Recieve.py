@@ -18,4 +18,3 @@ while 1:
         print("Code Updated from cloud")
 
     time.sleep(10)
-    
